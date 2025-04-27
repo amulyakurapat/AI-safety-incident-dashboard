@@ -33,7 +33,7 @@ Clone the repository and install the dependencies:
 git clone https://github.com/amulyakurapat/AI-safety-incident-dashboard.git
 
 # Navigate into the project directory
-cd humanchain
+cd AI-safety-incident-dashboard
 
 # Install dependencies
 npm install
