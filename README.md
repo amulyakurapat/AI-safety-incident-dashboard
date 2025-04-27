@@ -30,7 +30,7 @@ Clone the repository and install the dependencies:
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/safechain.git
+git clone https://github.com/amulyakurapat/AI-safety-incident-dashboard.git
 
 # Navigate into the project directory
 cd humanchain
